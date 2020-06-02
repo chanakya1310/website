@@ -158,4 +158,11 @@ Having worked with website design for the better part of 3 years,
   description: 'Hemanth is an experienced Android ROM and App Developer. Having developed many Android Apps using Java and Kotlin with the latest features and a clean codebase, his apps aim to solve day-to-day problems to make one’s life easier.',
   linkedin: 'https://www.linkedin.com/in/darthbenro008/',
   github: ' https://github.com/DarthBenro008'
-}]
+}, {
+  name: 'Chanakya Vivek Kapoor',
+  devs: 'AI/ML',
+  description: "Always ready to learn, Chanakya is a dedicated and committed developer. Also a part of DSC-VIT. He believes working on real-life projects is the way to learn. Apart from ML and DL, he is also interested in Blockchain and would love to explore IoT in the future. To remain fit, he likes to play Basketball and Cricket.",
+  linkedin: 'https://www.linkedin.com/in/chanakya-vivek-kapoor-a04496167',
+  gihub:'https://github.com/chanakya1310'
+}
+  
